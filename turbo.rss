@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+				<rss xmlns:yandex="http://news.yandex.ru" xmlns:media="http://search.yahoo.com/mrss/" xmlns:turbo="http://turbo.yandex.ru" version="2.0">
+					<channel>
+						<title>Стихотворения Андрея Раскатова</title>
+						<description>Стихотворения молодого российского поэта эпохи нулевых.</description>
+						<link>https://efiand.github.io/raskatov</link>
+						<language>ru</language>
+						
+		<item turbo="true">
+			<turbo:extendedHtml>true</turbo:extendedHtml>
+			<link>https://efiand.github.io/raskatov/basnya-pro-len</link>
+			<turbo:content><![CDATA[
+		<header>
+			<h1>Басня про лень</h1>
+		</header>
+		<p>Случилось то в осенний тёплый день:</p><p>Решил козёл на сельском поле</p><p>Поесть капустки… Но идти-то лень! —</p><p>И не пошёл: нет силы воли.</p><p class="separated">Пришёл козёл на поле поутру —</p><p>Капусты нет: уже убрали. —</p><p>И поскакал козёл, как кенгуру,</p><p>Унынья полон и печали.</p><p class="separated">Ленивый мыслит: времени — вагон —</p><p>Он сделать дело успевает.</p><p>Но коль зевнёшь, считать начнёшь ворон —</p><p>То счастье мимо пролетает.</p>
+	]]></turbo:content>
+			<pubDate>Mon, 10 Mar 2025 19:00:00 +0300</pubDate>
+		</item>
+	
+		<item turbo="true">
+			<turbo:extendedHtml>true</turbo:extendedHtml>
+			<link>https://efiand.github.io/raskatov/vesna-vo-dvore</link>
+			<turbo:content><![CDATA[
+		<header>
+			<h1>Весна во дворе</h1>
+		</header>
+		<p>Весна наступила у нас во дворе.</p><p>Мечтают деревья о пышной листве.</p><p>Снег стаял — и лужи чернеют везде,</p><p>И плавает мусор в талой воде.</p><p class="separated">И дворник Иваныч, идя на работу,</p><p>Ругается: «Вот ведь! Ходить же нельзя!»</p><p>Товарищ, родной, береги свои боты,</p><p>Когда ты проходишь по лужам двора!</p><p class="separated">И жду я, когда же начнётся июнь,</p><p>Когда весна кончится, лето настанет.</p><p>Уеду на дачу. Там сухо, тепло…</p><p>И там меня никто не достанет!</p>
+	]]></turbo:content>
+			<pubDate>Mon, 10 Mar 2025 19:00:00 +0300</pubDate>
+		</item>
+	
+		<item turbo="true">
+			<turbo:extendedHtml>true</turbo:extendedHtml>
+			<link>https://efiand.github.io/raskatov/yasen</link>
+			<turbo:content><![CDATA[
+		<header>
+			<h1>Ясень</h1>
+		</header>
+		<p>Где-то средь русских степей</p><p>Ясень растёт на просторе,</p><p>Так же, как я, одинок.</p><p>Звёздных-презвёздных ночей</p><p>Тьмою омыта, как морем,</p><p>Сеть бесфонарных дорог.</p><p class="separated">А на рассвете пройдут</p><p>Степью в тайгу дровосеки:</p><p>Ясень уже обречён.</p><p>Кончится жизнь и моя,</p><p>Смолкнет, иссякнет навеки,</p><p>Быстрая, как детский сон…</p>
+	]]></turbo:content>
+			<pubDate>Mon, 10 Mar 2025 19:00:00 +0300</pubDate>
+		</item>
+	
+					</channel>
+				</rss>
