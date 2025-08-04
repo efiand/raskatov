@@ -24,7 +24,8 @@ a[href]:focus-visible {
 	transition-duration: 0.2s;
 }
 
-.index-link[href]:active {
+.index-link[href]:active,
+.nav-ring__link[href]:active {
 	background-color: transparent;
 	box-shadow:
 		inset -2px 2px #0000004d,

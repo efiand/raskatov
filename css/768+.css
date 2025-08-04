@@ -9,6 +9,14 @@ main {
 		0 2px 4px #0000003d;
 }
 
+.nav-ring__link::before {
+	margin: 0.1rem 0 0 0.1rem;
+}
+
+.nav-ring__link--prev::before {
+	margin: 0.1rem 0 0 0.3rem;
+}
+
 .toc {
 	gap: 0;
 }

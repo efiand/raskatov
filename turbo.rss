@@ -3,12 +3,36 @@
 					<channel>
 						<title>Стихотворения Андрея Раскатова</title>
 						<description>Стихотворения молодого российского поэта эпохи нулевых.</description>
-						<link>https://efiand.github.io/raskatov</link>
+						<link>https://efiand.github.io/raskatov/</link>
 						<language>ru</language>
 						
 		<item turbo="true">
 			<turbo:extendedHtml>true</turbo:extendedHtml>
-			<link>https://efiand.github.io/raskatov/basnya-pro-len</link>
+			<link>https://efiand.github.io/raskatov/1/</link>
+			<turbo:content><![CDATA[
+		<header>
+			<h1>Чижик-Пыжик</h1>
+		</header>
+		<p>Мальчик маленький вопил:</p><p>«Чижик-Пыжик, где ты был?» —</p><p>У Фонтанки — красота!</p><p>Вдруг увидел: у моста:</p><p class="separated">Ловит Чижик солнца блик…</p><p>Мальчик понял в тот же миг:</p><p>Надо, чтоб известным быть,</p><p>В Петербурге водку пить!</p>
+	]]></turbo:content>
+			<pubDate>Mon, 10 Mar 2025 19:00:00 +0300</pubDate>
+		</item>
+	
+		<item turbo="true">
+			<turbo:extendedHtml>true</turbo:extendedHtml>
+			<link>https://efiand.github.io/raskatov/2/</link>
+			<turbo:content><![CDATA[
+		<header>
+			<h1>Петя в гостях</h1>
+		</header>
+		<p>Пригласили в гости Петю</p><p>На обед к подруге Свете.</p><p class="separated">Невоспитанный ребёнок</p><p>Не здоровался ни с кем,</p><p>Чавкал он как поросёнок,</p><p>Не был он ни глух ни нем,</p><p class="separated">Ел салат из общей миски,</p><p>Брал руками колбасу,</p><p>Выпил два стакана виски,</p><p>Пальцем ковырял в носу…</p><p class="separated">И сказала мама Свете:</p><p>«Есть противно рядом с Петей!»</p>
+	]]></turbo:content>
+			<pubDate>Mon, 10 Mar 2025 19:00:00 +0300</pubDate>
+		</item>
+	
+		<item turbo="true">
+			<turbo:extendedHtml>true</turbo:extendedHtml>
+			<link>https://efiand.github.io/raskatov/3/</link>
 			<turbo:content><![CDATA[
 		<header>
 			<h1>Басня про лень</h1>
@@ -20,19 +44,43 @@
 	
 		<item turbo="true">
 			<turbo:extendedHtml>true</turbo:extendedHtml>
-			<link>https://efiand.github.io/raskatov/monolog-na-dereve</link>
+			<link>https://efiand.github.io/raskatov/4/</link>
 			<turbo:content><![CDATA[
 		<header>
-			<h1>Монолог на дереве</h1>
+			<h1>Весна во дворе</h1>
 		</header>
-		<p>Что за стоны из окон твоих</p><p>Раздаются ночною порой?</p><p>Я безмолвно на ветке притих</p><p>С одноглазой подзорной трубой.</p><p class="separated">Весь район крепко дрыхнет давно,</p><p>Занавески окутала тьма,</p><p>Только я тупо пялюсь в окно —</p><p>Твой флюид меня сводит с ума!</p><p class="separated">Было время — лежали мы так,</p><p>Ты мечтала о даче в Крыму.</p><p>Но в стране наступил кавардак —</p><p>И ушла ты с другим. Почему?</p><p class="separated">Я квартиру оставил тебе,</p><p>Потому что люблю. Идиот.</p><p>Ты — маяк в моей мутной судьбе,</p><p>Только в жизни — опять поворот.</p><p class="separated">И теперь твой галимый мужик</p><p>В дом мой кровный устроился спать!</p><p>Он, собака, ложиться привык</p><p>В мной любимую с детства кровать!</p><p class="separated">Я терплю этот сраный бардак,</p><p>Но терпеть больше нет моих сил!</p><p>Я работу тащу как ишак —</p><p>И на новую жизнь накопил!</p><p class="separated">…Ветер мечется в голых ветвях,</p><p>И труба уж давно на снегу.</p><p>Приходи! Я опять при деньгах!</p><p>Не могу без тебя! Не могу!</p>
+		<p>Весна наступила у нас во дворе.</p><p>Мечтают деревья о пышной листве.</p><p>Снег стаял — и лужи чернеют везде,</p><p>И плавает мусор в талой воде.</p><p class="separated">И дворник Иваныч, идя на работу,</p><p>Ругается: «Вот, блять, настала пора!» —</p><p>Товарищ, родной, береги свои боты,</p><p>Когда ты проходишь по лужам двора!</p><p class="separated">И жду я, когда же начнётся июнь,</p><p>Когда весна кончится, лето настанет.</p><p>Уеду на дачу. Там сухо, тепло…</p><p>И там меня никто не достанет!</p>
 	]]></turbo:content>
 			<pubDate>Mon, 10 Mar 2025 19:00:00 +0300</pubDate>
 		</item>
 	
 		<item turbo="true">
 			<turbo:extendedHtml>true</turbo:extendedHtml>
-			<link>https://efiand.github.io/raskatov/nochnoy-monolog</link>
+			<link>https://efiand.github.io/raskatov/5/</link>
+			<turbo:content><![CDATA[
+		<header>
+			<h1>Весеннее настроение</h1>
+		</header>
+		<p>Я просыпаюсь в семь ноль-ноль.</p><p>В школу идти пора.</p><p>Чувствую я головную боль,</p><p>Словно в башке — дыра.</p><p class="separated">Весной я родился — весной и умру,</p><p>Если мой сон кратким будет.</p><p>И я прошу: пускай поутру</p><p>Меня попозже разбудят!</p>
+	]]></turbo:content>
+			<pubDate>Mon, 10 Mar 2025 19:00:00 +0300</pubDate>
+		</item>
+	
+		<item turbo="true">
+			<turbo:extendedHtml>true</turbo:extendedHtml>
+			<link>https://efiand.github.io/raskatov/6/</link>
+			<turbo:content><![CDATA[
+		<header>
+			<h1>Ясень</h1>
+		</header>
+		<p>Где-то средь русских степей</p><p>Ясень растёт на просторе,</p><p>Так же, как я, одинок.</p><p>Звёздных-презвёздных ночей</p><p>Тьмою омыта, как морем,</p><p>Сеть бесфонарных дорог.</p><p class="separated">А на рассвете пройдут</p><p>Степью в тайгу дровосеки:</p><p>Ясень уже обречён.</p><p>Кончится жизнь и моя,</p><p>Смолкнет, иссякнет навеки,</p><p>Быстрая, как детский сон…</p>
+	]]></turbo:content>
+			<pubDate>Mon, 10 Mar 2025 19:00:00 +0300</pubDate>
+		</item>
+	
+		<item turbo="true">
+			<turbo:extendedHtml>true</turbo:extendedHtml>
+			<link>https://efiand.github.io/raskatov/7/</link>
 			<turbo:content><![CDATA[
 		<header>
 			<h1>Ночной монолог</h1>
@@ -44,7 +92,19 @@
 	
 		<item turbo="true">
 			<turbo:extendedHtml>true</turbo:extendedHtml>
-			<link>https://efiand.github.io/raskatov/o-pushkine-i-rybke</link>
+			<link>https://efiand.github.io/raskatov/8/</link>
+			<turbo:content><![CDATA[
+		<header>
+			<h1>Монолог на дереве</h1>
+		</header>
+		<p>Что за стоны из окон твоих</p><p>Раздаются ночною порой?</p><p>Я безмолвно на ветке притих</p><p>С одноглазой подзорной трубой.</p><p class="separated">Весь район крепко дрыхнет давно,</p><p>Занавески окутала тьма,</p><p>Только я тупо пялюсь в окно —</p><p>Твой флюид меня сводит с ума!</p><p class="separated">Было время — лежали мы так,</p><p>Ты мечтала о даче в Крыму.</p><p>Но в стране наступил кавардак —</p><p>И ушла ты с другим. Почему?</p><p class="separated">Я квартиру оставил тебе,</p><p>Потому что люблю. Идиот.</p><p>Ты — маяк в моей мутной судьбе,</p><p>Только в жизни — опять поворот.</p><p class="separated">И теперь твой галимый мужик</p><p>В дом мой кровный устроился спать!</p><p>Он, собака, ложиться привык</p><p>В мной любимую с детства кровать!</p><p class="separated">Я терплю этот сраный бардак,</p><p>Но терпеть больше нет моих сил!</p><p>Я работу тащу как ишак —</p><p>И на новую жизнь накопил!</p><p class="separated">…Ветер мечется в голых ветвях,</p><p>И труба уж давно на снегу.</p><p>Приходи! Я опять при деньгах!</p><p>Не могу без тебя! Не могу!</p>
+	]]></turbo:content>
+			<pubDate>Mon, 10 Mar 2025 19:00:00 +0300</pubDate>
+		</item>
+	
+		<item turbo="true">
+			<turbo:extendedHtml>true</turbo:extendedHtml>
+			<link>https://efiand.github.io/raskatov/9/</link>
 			<turbo:content><![CDATA[
 		<header>
 			<h1>О Пушкине и рыбке</h1>
@@ -56,24 +116,264 @@
 	
 		<item turbo="true">
 			<turbo:extendedHtml>true</turbo:extendedHtml>
-			<link>https://efiand.github.io/raskatov/vesna-vo-dvore</link>
+			<link>https://efiand.github.io/raskatov/10/</link>
 			<turbo:content><![CDATA[
 		<header>
-			<h1>Весна во дворе</h1>
+			<h1>Головная боль</h1>
 		</header>
-		<p>Весна наступила у нас во дворе.</p><p>Мечтают деревья о пышной листве.</p><p>Снег стаял — и лужи чернеют везде,</p><p>И плавает мусор в талой воде.</p><p class="separated">И дворник Иваныч, идя на работу,</p><p>Ругается: «Вот ведь! Ходить же нельзя!»</p><p>Товарищ, родной, береги свои боты,</p><p>Когда ты проходишь по лужам двора!</p><p class="separated">И жду я, когда же начнётся июнь,</p><p>Когда весна кончится, лето настанет.</p><p>Уеду на дачу. Там сухо, тепло…</p><p>И там меня никто не достанет!</p>
+		<p>Всё безразлично. Болит голова.</p><p>Стрелы вонзаются в мозг.</p><p>Ваши бессмысленные слова</p><p>Не принимаю всерьёз.</p><p class="separated">Я отключился от дел и забот,</p><p>Лёг и спокойно лежу.</p><p>И не смотрите в зевающий рот:</p><p>Я ничего не скажу!</p><p class="separated">Не принимает сигналов модем,</p><p>И телефон отключён.</p><p>Или работу пошлю насовсем —</p><p>Или на ней обречён.</p><p class="separated">Так не старайтесь сегодня, прошу,</p><p>В ваши заботы втянуть.</p><p>Хватит мне на уши вешать лапшу!</p><p>Дайте же, блять, отдохнуть!</p>
 	]]></turbo:content>
 			<pubDate>Mon, 10 Mar 2025 19:00:00 +0300</pubDate>
 		</item>
 	
 		<item turbo="true">
 			<turbo:extendedHtml>true</turbo:extendedHtml>
-			<link>https://efiand.github.io/raskatov/yasen</link>
+			<link>https://efiand.github.io/raskatov/11/</link>
 			<turbo:content><![CDATA[
 		<header>
-			<h1>Ясень</h1>
+			<h1>Вечернее вдохновение</h1>
 		</header>
-		<p>Где-то средь русских степей</p><p>Ясень растёт на просторе,</p><p>Так же, как я, одинок.</p><p>Звёздных-презвёздных ночей</p><p>Тьмою омыта, как морем,</p><p>Сеть бесфонарных дорог.</p><p class="separated">А на рассвете пройдут</p><p>Степью в тайгу дровосеки:</p><p>Ясень уже обречён.</p><p>Кончится жизнь и моя,</p><p>Смолкнет, иссякнет навеки,</p><p>Быстрая, как детский сон…</p>
+		<p>Прохладный вечер спать велит стихиям,</p><p>С небес спустилась ночь на город мой.</p><p>О суете забыв, пишу стихи я</p><p>Про ценности, хранимые душой.</p><p class="separated">Завесу тайн мне день приоткрывает —</p><p>А разгадать их помогает ночь.</p><p>Но иногда загадочка такая,</p><p>Что даже ночь не в силах мне помочь.</p>
+	]]></turbo:content>
+			<pubDate>Mon, 10 Mar 2025 19:00:00 +0300</pubDate>
+		</item>
+	
+		<item turbo="true">
+			<turbo:extendedHtml>true</turbo:extendedHtml>
+			<link>https://efiand.github.io/raskatov/12/</link>
+			<turbo:content><![CDATA[
+		<header>
+			<h1>О пользе лекарства</h1>
+		</header>
+		<p>Друзья! Пока ещё не поздно —</p><p>Лечитесь медикаментозно!</p><p>Глотайте капли, рыбий жир,</p><p>Чтоб не покинуть этот мир.</p><p class="separated">Не мучьте органы больные:</p><p>Отвар, настой — вот терапия!</p><p>Таблетку сразу лучше съесть,</p><p>Чем через час на стену лезть.</p><p class="separated">Мы все, как подобает людям,</p><p>Себя сводить в могилу будем,</p><p>Но, оказавшись на краю,</p><p>За жизнь зацепимся свою.</p><p class="separated">Не вечны мы — известно это:</p><p>Себя загнали — песня спета!</p><p>Мой аргумент, друзья, могуч:</p><p>Здоровье — к счастью первый ключ!</p>
+	]]></turbo:content>
+			<pubDate>Mon, 10 Mar 2025 19:00:00 +0300</pubDate>
+		</item>
+	
+		<item turbo="true">
+			<turbo:extendedHtml>true</turbo:extendedHtml>
+			<link>https://efiand.github.io/raskatov/13/</link>
+			<turbo:content><![CDATA[
+		<header>
+			<h1>Рисунок Весны</h1>
+		</header>
+		<p>Белый лист раскрасился</p><p>Солнцем золотистым,</p><p>Листьев изумрудом,</p><p>Желтизной цветка…</p><p>Пусть зима не ластится</p><p>К мягкой этой кисти!</p><p>Белыми пусть будут</p><p>Только облака.</p>
+	]]></turbo:content>
+			<pubDate>Mon, 10 Mar 2025 19:00:00 +0300</pubDate>
+		</item>
+	
+		<item turbo="true">
+			<turbo:extendedHtml>true</turbo:extendedHtml>
+			<link>https://efiand.github.io/raskatov/14/</link>
+			<turbo:content><![CDATA[
+		<header>
+			<h1>Красавица Небес</h1>
+		</header>
+		<p>С высот упало солнце в лес —</p><p>И все деревья полегли,</p><p>Когда в Красавицу Небес</p><p>Влюбился Человек Земли.</p><p class="separated">Он смотрит в небо день и ночь,</p><p>Забыв про каждодневный труд.</p><p>Ну кто бы смог ему помочь!</p><p>Ведь дни идут, часы идут.</p><p class="separated">Красавица — его мечта —</p><p>Устало смотрит в неба даль,</p><p>Где Белый Ангел пролетал —</p><p>Её забота и печаль.</p>
+	]]></turbo:content>
+			<pubDate>Mon, 10 Mar 2025 19:00:00 +0300</pubDate>
+		</item>
+	
+		<item turbo="true">
+			<turbo:extendedHtml>true</turbo:extendedHtml>
+			<link>https://efiand.github.io/raskatov/15/</link>
+			<turbo:content><![CDATA[
+		<header>
+			<h1>Осенняя печаль</h1>
+		</header>
+		<p>Берёзовый листочек по воде,</p><p>Вальсируя, уносится куда-то.</p><p>Стоит осенний тёмно-серый день,</p><p>Наполненный тумана ароматом.</p><p class="separated">Унылый лес, лишившийся листвы,</p><p>Пред миром обнажённый, тихо плачет.</p><p>Всё потеряв, как я, он от молвы</p><p>Больную душу никуда не прячет.</p>
+	]]></turbo:content>
+			<pubDate>Mon, 10 Mar 2025 19:00:00 +0300</pubDate>
+		</item>
+	
+		<item turbo="true">
+			<turbo:extendedHtml>true</turbo:extendedHtml>
+			<link>https://efiand.github.io/raskatov/16/</link>
+			<turbo:content><![CDATA[
+		<header>
+			<h1>Прощу и забуду</h1>
+		</header>
+		<p>Снег падает на тёплое лицо,</p><p>Течёт слезой по раскалённой коже.</p><p>Подобрала ты резкое словцо —</p><p>И мы играть в гармонию не можем.</p><p class="separated">Зачем о чём-то призрачном страдать?</p><p>Я жизни наши разрушать не буду.</p><p>В моей душе — покой и благодать:</p><p>Прощу тебя — и в тот же миг забуду!</p>
+	]]></turbo:content>
+			<pubDate>Mon, 10 Mar 2025 19:00:00 +0300</pubDate>
+		</item>
+	
+		<item turbo="true">
+			<turbo:extendedHtml>true</turbo:extendedHtml>
+			<link>https://efiand.github.io/raskatov/17/</link>
+			<turbo:content><![CDATA[
+		<header>
+			<h1>Свет творчества</h1>
+		</header>
+		<p>Все творцы — генераторы света:</p><p>Кто-то — искорка, кто-то — свеча.</p><p>Кто-то в небе сверкает кометой,</p><p>Грязь и пошлость сжигая в лучах.</p><p class="separated">Пусть огонь твой горит еле-еле,</p><p>Сохрани его ласковый свет —</p><p>И, шагая к намеченной цели,</p><p>Освещай путь идущим вослед.</p>
+	]]></turbo:content>
+			<pubDate>Mon, 10 Mar 2025 19:00:00 +0300</pubDate>
+		</item>
+	
+		<item turbo="true">
+			<turbo:extendedHtml>true</turbo:extendedHtml>
+			<link>https://efiand.github.io/raskatov/18/</link>
+			<turbo:content><![CDATA[
+		<header>
+			<h1>Гремучая смесь</h1>
+		</header>
+		<p>Бывает, что стихи текут легко,</p><p>Как тёплое парное молоко.</p><p>Но если высох творческий поток —</p><p>Не стоит «рыбой» наполнять лоток.</p>
+	]]></turbo:content>
+			<pubDate>Mon, 10 Mar 2025 19:00:00 +0300</pubDate>
+		</item>
+	
+		<item turbo="true">
+			<turbo:extendedHtml>true</turbo:extendedHtml>
+			<link>https://efiand.github.io/raskatov/19/</link>
+			<turbo:content><![CDATA[
+		<header>
+			<h1>Под негромкий плач рояля</h1>
+		</header>
+		<p>В клубе пел рояль печально,</p><p>Пианисту пальцы грея.</p><p>Если струны зазвучали —</p><p>Я душой летать умею.</p><p class="separated">Звук мечты недостижимой,</p><p>Утоли мои печали!</p><p>Уношусь я в мир незримый</p><p>Под негромкий плач рояля.</p>
+	]]></turbo:content>
+			<pubDate>Mon, 10 Mar 2025 19:00:00 +0300</pubDate>
+		</item>
+	
+		<item turbo="true">
+			<turbo:extendedHtml>true</turbo:extendedHtml>
+			<link>https://efiand.github.io/raskatov/20/</link>
+			<turbo:content><![CDATA[
+		<header>
+			<h1>Осень в нас</h1>
+		</header>
+		<p>Унылый вид опавших листьев</p><p>Наводит долгожданный сон.</p><p>Былые чаянья и мысли</p><p>Метла с листвой уносит вон.</p><p class="separated">Ты не настроена, о солнце,</p><p>Идти на праздник без причин?</p><p>Посмотрим в мокрое оконце —</p><p>Я не хочу бродить один.</p><p class="separated">Покой — не враг энтузиазма.</p><p>Закрой второй усталый глаз…</p><p>Нет, нам далече до маразма:</p><p>Не мы брюзжим — а осень в нас.</p>
+	]]></turbo:content>
+			<pubDate>Mon, 10 Mar 2025 19:00:00 +0300</pubDate>
+		</item>
+	
+		<item turbo="true">
+			<turbo:extendedHtml>true</turbo:extendedHtml>
+			<link>https://efiand.github.io/raskatov/21/</link>
+			<turbo:content><![CDATA[
+		<header>
+			<h1>Безнадёга</h1>
+		</header>
+		<p>Как кромешная мгла накрывает меня безнадёга.</p><p>Я шагаю туннелем своей одинокой судьбы.</p><p>Абсолютно темна бесконечная эта дорога,</p><p>Ей не видно конца, и тревоги растут как грибы.</p><p class="separated">Задыхаюсь всё чаще. Ползу, безвозвратно пьянея,</p><p>Словно спирта парами пропитаны камни вокруг.</p><p>И всё больше, касаясь холодной пещеры, немеют</p><p>И болят кисти начисто стёртых натруженных рук.</p><p class="separated">Поднимаюсь, петляя ногами, как лошадь хромая,</p><p>Отдыхаю на мокрых и скользких холодных камнях</p><p>И, споткнувшись о них в сотый раз, в себе веру ломаю,</p><p>Не увидев надежды в невзрачных скитания днях.</p><p class="separated">Чёрный ворон, надрывно крича, на лопатки садится,</p><p>В ожидании долгом когтями скребёт по плечу,</p><p>Словно хочет сказать: «Жизнь твоя никуда не годится!» —</p><p>Он, наверное, прав… Прекратить бы… Но нет, не хочу!</p><p class="separated">Не могу свой поход оборвать — ну никак невозможно!</p><p>Ведь осталась в усталой душе неизменная цель:</p><p>Вдоль по длинной и узкой судьбе я ползу осторожно,</p><p>Чтоб однажды узнать, чем закончится чёрный туннель.</p>
+	]]></turbo:content>
+			<pubDate>Mon, 10 Mar 2025 19:00:00 +0300</pubDate>
+		</item>
+	
+		<item turbo="true">
+			<turbo:extendedHtml>true</turbo:extendedHtml>
+			<link>https://efiand.github.io/raskatov/22/</link>
+			<turbo:content><![CDATA[
+		<header>
+			<h1>Осенний пессимизм</h1>
+		</header>
+		<p>Дует ветер северный</p><p>В хари заунывные.</p><p>Слышу птиц потерянных</p><p>Пение противное.</p><p class="separated">Спят жучки-вредители.</p><p>Раскричались вороны,</p><p>Словно перед зрителем —</p><p>Несмешные клоуны.</p><p class="separated">В говна листопадные</p><p>Я влетел копытами,</p><p>Но пути обратные —</p><p>Трактором разрытые.</p><p class="separated">Осень, в душу задница!</p><p>Мне всё чётче кажется,</p><p>Что в такую пятницу</p><p>«Узелок» — развяжется!</p>
+	]]></turbo:content>
+			<pubDate>Mon, 10 Mar 2025 19:00:00 +0300</pubDate>
+		</item>
+	
+		<item turbo="true">
+			<turbo:extendedHtml>true</turbo:extendedHtml>
+			<link>https://efiand.github.io/raskatov/23/</link>
+			<turbo:content><![CDATA[
+		<header>
+			<h1>Танго</h1>
+		</header>
+		<p>Сон осенний опять</p><p>Растревожил меня.</p><p>Я спешу в те луга,</p><p>Где нам было тепло.</p><p>Нам не вместе встречать</p><p>Утро нового дня.</p><p>Скоро будут снега</p><p>Мне стучаться в стекло.</p><p class="separated">Были ясные ночи —</p><p>Звёзд на небе не счесть,</p><p>И прекрасные очи,</p><p>И пьянящая лесть…</p><p class="separated">Но дороги покрыла</p><p>Корка зимнего льда.</p><p>Ты меня не любила</p><p>Никогда-никогда.</p><p class="separated">Ты красива, как май,</p><p>И сладка, как вино.</p><p>Есть ли рай на земле?</p><p>Места в нём тебе нет.</p><p>С кем угодно гуляй —</p><p>Всё уже решено:</p><p>Скоро сгинет в золе</p><p>Безупречный портрет.</p><p class="separated">Были ясные ночи —</p><p>Звёзд на небе не счесть,</p><p>И прекрасные очи,</p><p>И пьянящая лесть…</p><p class="separated">Но дороги покрыла</p><p>Корка зимнего льда.</p><p>Ты меня не любила</p><p>Никогда-никогда.</p>
+	]]></turbo:content>
+			<pubDate>Mon, 10 Mar 2025 19:00:00 +0300</pubDate>
+		</item>
+	
+		<item turbo="true">
+			<turbo:extendedHtml>true</turbo:extendedHtml>
+			<link>https://efiand.github.io/raskatov/24/</link>
+			<turbo:content><![CDATA[
+		<header>
+			<h1>Обывателям</h1>
+		</header>
+		<p>Вы читаете между строк —</p><p>Забывая читать по строкам.</p><p>Жопу рвёте, чтоб точно в срок, —</p><p>Прохлаждаясь две трети срока.</p><p class="separated">Заблудившись в трёх соснах лжи —</p><p>Созерцаете правду неба</p><p>И твердите, что мало хлеба, —</p><p>В фуа-гра погрузив ножи.</p>
+	]]></turbo:content>
+			<pubDate>Mon, 10 Mar 2025 19:00:00 +0300</pubDate>
+		</item>
+	
+		<item turbo="true">
+			<turbo:extendedHtml>true</turbo:extendedHtml>
+			<link>https://efiand.github.io/raskatov/25/</link>
+			<turbo:content><![CDATA[
+		<header>
+			<h1>Просто живи</h1>
+		</header>
+		<p>Истины кратки — иллюзии вечны.</p><p>Быт нас съедает, как моль ест пальто.</p><p>Ты можешь верить, что выдумал нечто, —</p><p>Жизнь опровергнет, что это ничто!</p><p class="separated">Можешь мечтать ты о жизни прикольной,</p><p>Строить карьеру, не есть ни хрена, —</p><p>Но на вершине ты вновь недовольный —</p><p>Давят начальник, успех и жена.</p><p class="separated">Эту жену добывал в тяжкой битве,</p><p>Вот она рядом — желанный финал.</p><p>Но по ночам повторяешь в молитве:</p><p>«Мог бы, о Боже, — иначе б сыграл!»</p><p class="separated">Счастливы те, кто на рейс опоздает,</p><p>Если трагичным окажется путь.</p><p>Только сосулька об этом не знает!</p><p>Просто живи, но внимательней будь!</p>
+	]]></turbo:content>
+			<pubDate>Mon, 10 Mar 2025 19:00:00 +0300</pubDate>
+		</item>
+	
+		<item turbo="true">
+			<turbo:extendedHtml>true</turbo:extendedHtml>
+			<link>https://efiand.github.io/raskatov/26/</link>
+			<turbo:content><![CDATA[
+		<header>
+			<h1>Первый экзамен</h1>
+		</header>
+		<p>Помнишь, коллега, свой первый экзамен? —</p><p>Голос у лифта напутственный мамин,</p><p>Серия тягостных мыслей в пути…</p><p>Чтение в транспорте может спасти!</p><p class="separated">Мелкая дрожь, и холодные руки,</p><p>Мозг, окосевший вконец от науки,</p><p>Ручка в кармане, шпаргалка в другом —</p><p>Ходят под дверью студенты кругом.</p><p class="separated">Вспомни молитву в дверях кабинета,</p><p>Руку, застывшую возле билета,</p><p>Ужас при взгляде на текст, а затем —</p><p>Припоминанье неученых тем.</p><p class="separated">Голосом жалким ответ начинаешь,</p><p>Что-то с испугу потом вспоминаешь,</p><p>С грозным доцентом беседу ведёшь —</p><p>И понимаешь, что не пропадёшь.</p><p class="separated">Время застыло… «Давайте зачётку!» —</p><p>Сердце ликует и пляшет чечётку!</p><p>Вышел наружу. Ты этого ждал:</p><p>К стенке припав, констатируешь: «Сдал!..»</p>
+	]]></turbo:content>
+			<pubDate>Mon, 10 Mar 2025 19:00:00 +0300</pubDate>
+		</item>
+	
+		<item turbo="true">
+			<turbo:extendedHtml>true</turbo:extendedHtml>
+			<link>https://efiand.github.io/raskatov/27/</link>
+			<turbo:content><![CDATA[
+		<header>
+			<h1>Птицы счастья</h1>
+		</header>
+		<p>Пока, ругаясь и крича,</p><p>Ловил, как водится, синицу,</p><p>Журавль, куривший у плеча,</p><p>Успел неспешно удалиться…</p>
+	]]></turbo:content>
+			<pubDate>Mon, 10 Mar 2025 19:00:00 +0300</pubDate>
+		</item>
+	
+		<item turbo="true">
+			<turbo:extendedHtml>true</turbo:extendedHtml>
+			<link>https://efiand.github.io/raskatov/28/</link>
+			<turbo:content><![CDATA[
+		<header>
+			<h1>Не от мира сего</h1>
+		</header>
+		<p>Вылезаю в реальность.</p><p>Суета неприятна!</p><p>Вновь повсюду банальность —</p><p>Лезу в кокон обратно!</p><p class="separated">В закоулках рассудка</p><p>Не боюсь ничего!</p><p>Проще быть в мире жутком</p><p>Не от мира сего.</p>
+	]]></turbo:content>
+			<pubDate>Mon, 10 Mar 2025 19:00:00 +0300</pubDate>
+		</item>
+	
+		<item turbo="true">
+			<turbo:extendedHtml>true</turbo:extendedHtml>
+			<link>https://efiand.github.io/raskatov/29/</link>
+			<turbo:content><![CDATA[
+		<header>
+			<h1>После грозы</h1>
+		</header>
+		<p>Гроза прошла. Цветными огоньками</p><p>Блестит на солнце мокрая листва.</p><p>Небесный свод расстался с облаками —</p><p>И розовый закат вступил в права.</p><p class="separated">Ликуют птицы! Мир преображённый</p><p>В вечернем свете красочен и свеж!</p><p>А грусть моя, как черновик сожжённый,</p><p>Рассыпалась на искорки надежд.</p>
+	]]></turbo:content>
+			<pubDate>Mon, 10 Mar 2025 19:00:00 +0300</pubDate>
+		</item>
+	
+		<item turbo="true">
+			<turbo:extendedHtml>true</turbo:extendedHtml>
+			<link>https://efiand.github.io/raskatov/30/</link>
+			<turbo:content><![CDATA[
+		<header>
+			<h1>Прощание с летом</h1>
+		</header>
+		<p>Намёк на осень — бесконечный дождь,</p><p>Ритмично бьющий по зонтам и крышам.</p><p>Я знаю, лето, скоро ты уйдёшь,</p><p>Оставив только вкус созревших вишен.</p><p class="separated">Пройдёт немного ласковых деньков —</p><p>И, оборвав листву в порыве диком,</p><p>Зальётся мир слезами облаков</p><p>И мокрых чаек безутешным криком.</p><p class="separated">Ты — с дерева, а я — с календаря, —</p><p>Листки сорвём в пакет воспоминаний.</p><p>Простимся, ничего не говоря,</p><p>До новых своевременных свиданий.</p>
+	]]></turbo:content>
+			<pubDate>Mon, 10 Mar 2025 19:00:00 +0300</pubDate>
+		</item>
+	
+		<item turbo="true">
+			<turbo:extendedHtml>true</turbo:extendedHtml>
+			<link>https://efiand.github.io/raskatov/31/</link>
+			<turbo:content><![CDATA[
+		<header>
+			<h1>Мотивация</h1>
+		</header>
+		<p>Невзирая на наши капризы,</p><p>Этот мир никого не щадит.</p><p>То иным преподносит сюрпризы,</p><p>То внезапно иных наградит.</p><p class="separated">Есть в забеге любом фавориты:</p><p>Может, именно ты победишь?</p><p>А не тронешься, ляжешь корытом —</p><p>Стопроцентно выиграешь шиш!</p>
 	]]></turbo:content>
 			<pubDate>Mon, 10 Mar 2025 19:00:00 +0300</pubDate>
 		</item>
