@@ -1,0 +1,25 @@
+html {
+	--color-back: #ffffff;
+	--color-main: #000000;
+	--color-text: #000000;
+	font-size: 12pt;
+}
+
+header,
+footer {
+	display: none;
+}
+
+main {
+	padding: 0;
+	box-shadow: none;
+}
+
+.poem,
+.toc {
+	page-break-after: avoid;
+}
+
+.copyright {
+	page-break-before: avoid;
+}

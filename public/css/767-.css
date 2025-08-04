@@ -1,0 +1,11 @@
+.toc__link[href] {
+	border-radius: 0;
+}
+
+.toc__item:first-child .toc__link[href] {
+	border-radius: 0.25rem 0.25rem 0 0;
+}
+
+.toc__item:last-child .toc__link[href] {
+	border-radius: 0 0 0.25rem 0.25rem;
+}

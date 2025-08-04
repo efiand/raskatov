@@ -1,0 +1,33 @@
+a[href]:hover,
+a[href]:active {
+	text-decoration: none;
+	transition-duration: 0.2s;
+}
+
+a[href]:hover {
+	color: var(--color-main);
+	background-color: var(--color-main-lite);
+	box-shadow: inset 0 0 0 2px var(--color-main);
+}
+
+a[href]:active {
+	color: var(--color-white);
+	background-color: var(--color-main);
+	box-shadow: inset 0 2px #0000004d;
+}
+
+a[href]:focus-visible {
+	text-decoration: none;
+	color: var(--color-main);
+	background-color: var(--color-main-lite);
+	box-shadow: inset 0 0 0 2px var(--color-main);
+	transition-duration: 0.2s;
+}
+
+.index-link[href]:active,
+.nav-ring__link[href]:active {
+	background-color: transparent;
+	box-shadow:
+		inset -2px 2px #0000004d,
+		-1px 1px 1px #ffffff80;
+}
