@@ -2,6 +2,24 @@
 				<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="https://www.w3.org/1999/xhtml">
 					
 		<url>
+			<loc>https://efiand.github.io/raskatov/o-pushkine-i-rybke</loc>
+			<changefreq>daily</changefreq>
+			<lastmod>2025-08-04T08:59:07+03:00</lastmod>
+		</url>
+	
+		<url>
+			<loc>https://efiand.github.io/raskatov/monolog-na-dereve</loc>
+			<changefreq>daily</changefreq>
+			<lastmod>2025-08-04T08:43:14+03:00</lastmod>
+		</url>
+	
+		<url>
+			<loc>https://efiand.github.io/raskatov/nochnoy-monolog</loc>
+			<changefreq>daily</changefreq>
+			<lastmod>2025-08-04T08:34:20+03:00</lastmod>
+		</url>
+	
+		<url>
 			<loc>https://efiand.github.io/raskatov/yasen</loc>
 			<changefreq>daily</changefreq>
 			<lastmod>2025-08-03T19:27:27+03:00</lastmod>
@@ -28,7 +46,7 @@
 		<url>
 			<loc>https://efiand.github.io/raskatov/turbo.rss</loc>
 			<changefreq>daily</changefreq>
-			<lastmod>2025-08-03T19:27:27+03:00</lastmod>
+			<lastmod>2025-08-04T08:59:07+03:00</lastmod>
 		</url>
 	
 				</urlset>

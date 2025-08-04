@@ -23,7 +23,7 @@ main {
 	text-indent: 0;
 }
 
-.toc__link:not(:hover, :focus, :active) {
+.toc__link {
 	background-color: var(--color-white);
 }
 
